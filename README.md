@@ -39,5 +39,84 @@
 
     </div>
 
+    CSS
+
+    * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1,
+h2{
+    color: #333;
+}
+
+p {
+    color: #70747a
+}
+
+/* Navbar */
+.navbar-container {
+    width: 100%;
+    height: 100px;
+    background-color: #353232;
+    padding: 0 2rem;
+
+}
+nav{
+    position: relative;
+}
+
+.logo {
+    width: 100px;
+    margin-top: 15px;
+    position: relative;
+    bottom: 115px;
+}
+.navbar-items{
+    position: absolute;
+    bottom: 130px;
+    right: 30px;
+    height: 80px;
+    line-height: 80px;
+    margin: 0;
+    display: inline-block;
+}
+.navbar-items li{
+    display: inline-block;
+    text-transform: uppercase;
+    margin-left: 25px;
+
+}
+.navbar-items a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    
+}
+
+/* Main banner */
+.main-banner{
+    background-image: url(renderizacao-3d-de-fundo-de-textura-hexagonal.jpg);
+    padding: 10rem 0;
+    background-size: cover;
+    background-position: left;
+    position: relative;
+    bottom: 120px;
+    
+
+    
+    
+}
+.main-banner h1,
+.main-banner p{
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    text-shadow: black 3px 2px 3px;
+
+
+}
+
     
  

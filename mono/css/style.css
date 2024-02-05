@@ -1295,6 +1295,7 @@ h6 a,
   display: block;
   margin: 0 0 16px;
   text-transform: lowercase;
+  text-shadow: black 3px 2px 3px;;
 }
 
 .hero-area.version-iii {

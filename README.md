@@ -114,9 +114,28 @@ nav{
     text-align: center;
     font-weight: bold;
     text-shadow: black 3px 2px 3px;
-
-
 }
+
+
+
+
+
+
+
+    <!-------------------------------------------------------------------Mudanças minimas do código ----------------------------------------->
+    <a href="#" class="btn btn-default btn-white">Download</a>
+						<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+							<ul class="nav navbar-nav navbar-right">
+								<li><a href="#" data-scroll-nav="0">Inicio</a></li>
+								<li><a href="#" data-scroll-nav="2">Sobre</a></li>
+								<li><a href="#" data-scroll-nav="3">Projeto</a></li>
+								<li><a href="#" data-scroll-nav="3">Desenvolvedores</a></li>
+								<li><a href="#" data-scroll-nav="3">Créditos</a></li>
+
+        <!-------------------------------------------------------------------Mudanças minimas do código ----------------------------------------->
+
+
+
 
     
  

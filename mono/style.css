@@ -1279,7 +1279,7 @@ a:hover, a:focus, a.active {
   font: 300 17px/35px "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   display: block;
   margin: 0 0 16px;
-  text-transform: lowercase;
+  text-transform: none;
 }
 
 .hero-area h1 .clr {

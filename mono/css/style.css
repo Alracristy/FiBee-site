@@ -1294,7 +1294,7 @@ h6 a,
   font: 300 17px/35px "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   display: block;
   margin: 0 0 16px;
-  text-transform: lowercase;
+  text-transform: none;
   text-shadow: black 3px 2px 3px;;
 }
 

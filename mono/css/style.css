@@ -4205,6 +4205,9 @@ h6 a,
   background: #1a242d;
   margin: 0 14px;
 }
+.icon-mod{
+  background-image: url();
+}
 
 .screen-gallery .screen-prev:hover, .screen-gallery .screen-prev:focus, .screen-gallery .screen-prev:active,
 .screen-gallery .screen-next:hover,
